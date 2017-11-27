@@ -17,9 +17,8 @@ public class ArrayLengthRace
 			System.out.println("The larger array is "+a);
 		else if(a1<b1)
 			System.out.println("The larger array is "+b);
-		else if(a1==b1)
-			System.out.println("The arrays are of same lenght: " +a);
-		System.out.println("and "+b);
+		
+		
 		
 				
 	}
