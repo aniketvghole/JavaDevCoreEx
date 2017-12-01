@@ -1,4 +1,5 @@
 
-public class AbstractImpInterface {
+abstract class AbstractImpInterface {
+	
 
 }
