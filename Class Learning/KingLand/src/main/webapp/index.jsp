@@ -1,3 +1,4 @@
+<%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c"%>
 
 
 <html>
@@ -7,7 +8,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
+
 <body>
+<jsp:include page="WEB-INF/header.jsp"></jsp:include>
 <h2>King's Land</h2>
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
