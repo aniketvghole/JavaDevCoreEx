@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<jsp:include page="WEB-INF/header.jsp"></jsp:include>
+<jsp:include page="header.jsp"></jsp:include>
 <h2>Manga View</h2>
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
